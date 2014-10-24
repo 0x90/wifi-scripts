@@ -51,7 +51,6 @@ from __future__ import with_statement
 
 import time
 import threading
-
 import cpyrit.pckttools
 import pylorcon
 import scapy.packet
