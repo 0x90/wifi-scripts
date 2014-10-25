@@ -20,4 +20,4 @@ class EvilAccessPoint():
 
 
 if __name__ == '__main__':
-    pass
+    EvilAccessPoint().run()
