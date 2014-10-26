@@ -20,18 +20,18 @@ def injmon(iface=None):
     else:
         try:
             driver, description = auto_driver(iface)
-            print('Enabling injmon on %s %s' % (iface, driver))
         except:
             # print('Could not find driver for %s' % iface)
             return
+
         if iface.find('mon') != -1:
             print('%s is already in mon mode' % iface)
             return
 
         ctx = Context(iface)
+        print('Enabling injmon on %s %s' % (iface, driver))
         try:
             ctx.open_injmon()
-            # ctx.s
         except:
             print("Failed to set injmon for %s!" % iface)
 
