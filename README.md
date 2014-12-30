@@ -40,6 +40,15 @@ https://github.com/sensepost/snoopy-ng
 https://github.com/hubert3/iSniff-GPS
 https://code.google.com/p/py80211/
 
+## Kismet links
+
+https://code.google.com/p/kismet2earth/
+https://code.google.com/p/pykismetkml/wiki/pykismetkml
+http://files.salecker.org/netxml2kml/netxml2kml.py.txt
+https://github.com/exp/Kismet-to-KML
+https://code.google.com/p/python-kismet/
+https://github.com/PaulMcMillan/kismetclient
+
 
 ## Links
 

@@ -31,3 +31,24 @@
 [submodule "external/py80211"]
 	path = external/py80211
 	url = https://code.google.com/p/py80211/
+[submodule "external/wifuzzit"]
+	path = external/wifuzzit
+	url = https://github.com/0xd012/wifuzzit
+[submodule "external/cornuprobia"]
+	path = external/cornuprobia
+	url = https://github.com/4ZM/cornuprobia
+[submodule "external/GrapplingHook"]
+	path = external/GrapplingHook
+	url = https://github.com/nseetharaman/GrapplingHook
+[submodule "external/scapy-fakeap"]
+	path = external/scapy-fakeap
+	url = https://github.com/rpp0/scapy-fakeap
+[submodule "external/probemon"]
+	path = external/probemon
+	url = https://github.com/jjb3tee3/probemon/
+[submodule "external/wifidec"]
+	path = external/wifidec
+	url = https://github.com/twitchyliquid64/wifidec
+[submodule "external/WPS-PIN"]
+	path = external/WPS-PIN
+	url = https://github.com/linkp2p/WPS-PIN
