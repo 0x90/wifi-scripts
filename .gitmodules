@@ -22,3 +22,6 @@
 [submodule "external/wifite"]
 	path = external/wifite
 	url = https://github.com/derv82/wifite
+[submodule "external/eapeak"]
+	path = external/eapeak
+	url = https://github.com/securestate/eapeak
