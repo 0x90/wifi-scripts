@@ -1,0 +1,15 @@
+[submodule "external/iSniff-GPS"]
+	path = external/iSniff-GPS
+	url = https://github.com/hubert3/iSniff-GPS
+[submodule "external/wifijammer"]
+	path = external/wifijammer
+	url = https://github.com/DanMcInerney/wifijammer
+[submodule "external/pylorcon2"]
+	path = external/pylorcon2
+	url = https://github.com/tom5760/pylorcon2
+[submodule "external/peapwn"]
+	path = external/peapwn
+	url = https://github.com/rpp0/peapwn
+[submodule "external/snoopy-ng"]
+	path = external/snoopy-ng
+	url = https://github.com/sensepost/snoopy-ng
