@@ -5,6 +5,8 @@
 Author: Joff Thyer, 2014
 """
 
+# http://blog.packetheader.net/2014/01/sending-80211-packets-with-scapy.html
+#
 # if we set logging to ERROR level, it supresses the warning message
 # from Scapy about ipv6 routing
 #   WARNING: No route found for IPv6 destination :: (no default route?)

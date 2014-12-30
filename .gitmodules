@@ -25,3 +25,9 @@
 [submodule "external/eapeak"]
 	path = external/eapeak
 	url = https://github.com/securestate/eapeak
+[submodule "external/airview"]
+	path = external/airview
+	url = https://github.com/Crypt0s/airview
+[submodule "external/py80211"]
+	path = external/py80211
+	url = https://code.google.com/p/py80211/

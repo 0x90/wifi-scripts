@@ -3,8 +3,16 @@ wifi-scripts
 
 Misc scripts and tools for WiFi.
 
+Don't forget to init submodules
+```
+git submodule init
+git submodule foreach git pull
+```
 
-
+to update submodules use:
+```
+git submodule update --recursive
+```
 
 ## REPOS
 https://github.com/tom5760/pylorcon2
@@ -30,6 +38,7 @@ https://code.google.com/p/warcarrier/
 https://code.google.com/u/weaknetlabs/
 https://github.com/sensepost/snoopy-ng
 https://github.com/hubert3/iSniff-GPS
+https://code.google.com/p/py80211/
 
 
 ## Links

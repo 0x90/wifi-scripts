@@ -1,16 +1,27 @@
 #!/usr/bin/env python
 # -*- encoding: utf-8 -*-
+#
+# Switch 802.11 interface(s) to INJMON mode.
+# author: @090h
+#
 
-from sys import argv
-from PyLorcon2 import Context, auto_driver
-
-# import scapy silently
+from sys import argv, exit
 import logging
-logging.getLogger("scapy.runtime").setLevel(logging.ERROR)
-# from scapy.all import *
-from scapy.all import get_if_list, conf
-conf.verb = 0
 
+try:
+    from PyLorcon2 import Context, auto_driver
+except ImportError:
+    logging.error('PyLorcon2 not installed!')
+    exit(-1)
+
+try:
+    # import scapy silently
+    logging.getLogger("scapy.runtime").setLevel(logging.ERROR)
+    from scapy.all import get_if_list, conf
+    conf.verb = 0
+except ImportError:
+    logging.error('Scapy not installed!')
+    exit(-1)
 
 
 def injmon(iface=None):
