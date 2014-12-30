@@ -1,7 +1,7 @@
 wifi-scripts
 ============
 
-Misc scripts and tools for WiFi.
+Python scripts and tools for WiFi.
 
 Don't forget to init submodules
 ```
