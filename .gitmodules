@@ -13,3 +13,12 @@
 [submodule "external/snoopy-ng"]
 	path = external/snoopy-ng
 	url = https://github.com/sensepost/snoopy-ng
+[submodule "external/wps"]
+	path = external/wps
+	url = https://github.com/devttys0/wps
+[submodule "external/wpscrack"]
+	path = external/wpscrack
+	url = https://github.com/ml31415/wpscrack
+[submodule "external/wifite"]
+	path = external/wifite
+	url = https://github.com/derv82/wifite
