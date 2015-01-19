@@ -52,3 +52,9 @@
 [submodule "external/WPS-PIN"]
 	path = external/WPS-PIN
 	url = https://github.com/linkp2p/WPS-PIN
+[submodule "external/airport-sniffer"]
+	path = external/airport-sniffer
+	url = https://github.com/zhovner/airport-sniffer
+[submodule "external/waidps"]
+	path = external/waidps
+	url = https://github.com/SYWorks/waidps
