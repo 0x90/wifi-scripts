@@ -98,7 +98,8 @@ http://syscall.eu/
 https://github.com/trou/airscan
 
 ## Dictionaries
-
+http://xiaopan.co/forums/community/dictionary/
 http://wifi0wn.wordpress.com/wepwpawpa2-cracking-dictionary/
+https://blog.g0tmi1k.com/2011/06/dictionaries-wordlists/
 https://www.cloudcracker.com/dictionaries.html
 https://forums.hak5.org/index.php?/topic/29308-13gb-44gb-compressed-wpa-wpa2-word-list-982963904-words/

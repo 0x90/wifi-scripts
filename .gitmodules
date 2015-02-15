@@ -58,3 +58,6 @@
 [submodule "external/waidps"]
 	path = external/waidps
 	url = https://github.com/SYWorks/waidps
+[submodule "external/wifiphisher"]
+	path = external/wifiphisher
+	url = https://github.com/sophron/wifiphisher
