@@ -64,3 +64,6 @@
 [submodule "external/airodump-iv"]
 	path = external/airodump-iv
 	url = https://github.com/ivanlei/airodump-iv
+[submodule "external/wraith"]
+	path = external/wraith
+	url = https://github.com/wraith-wireless/wraith
