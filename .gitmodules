@@ -73,3 +73,6 @@
 [submodule "external/wireless-radar"]
 	path = external/wireless-radar
 	url = https://github.com/stef/wireless-radar
+[submodule "external/WifiStalker"]
+	path = external/WifiStalker
+	url = https://github.com/blaa/WifiStalker
