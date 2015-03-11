@@ -61,3 +61,6 @@
 [submodule "external/wifiphisher"]
 	path = external/wifiphisher
 	url = https://github.com/sophron/wifiphisher
+[submodule "external/airodump-iv"]
+	path = external/airodump-iv
+	url = https://github.com/ivanlei/airodump-iv
