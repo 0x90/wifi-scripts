@@ -67,3 +67,6 @@
 [submodule "external/wraith"]
 	path = external/wraith
 	url = https://github.com/wraith-wireless/wraith
+[submodule "external/scapy-rssi"]
+	path = external/scapy-rssi
+	url = https://github.com/azz2k/scapy-rssi
