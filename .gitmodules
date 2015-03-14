@@ -76,3 +76,33 @@
 [submodule "external/WifiStalker"]
 	path = external/WifiStalker
 	url = https://github.com/blaa/WifiStalker
+[submodule "external/hotspotd"]
+	path = external/hotspotd
+	url = https://github.com/prahladyeri/hotspotd
+[submodule "external/dot11er"]
+	path = external/dot11er
+	url = https://github.com/timow/dot11er
+[submodule "external/wifiwho"]
+	path = external/wifiwho
+	url = https://github.com/meeuw/wifiwho
+[submodule "external/pyReaver"]
+	path = external/pyReaver
+	url = https://github.com/byt3bl33d3r/pyReaver
+[submodule "external/WLAN-Monitoring"]
+	path = external/WLAN-Monitoring
+	url = https://github.com/sajjanbh/WLAN-Monitoring
+[submodule "external/80211-fun"]
+	path = external/80211-fun
+	url = https://github.com/flupzor/80211-fun
+[submodule "external/smallWifiTools"]
+	path = external/smallWifiTools
+	url = https://github.com/3ll060/smallWifiTools
+[submodule "external/wlan-stats"]
+	path = external/wlan-stats
+	url = https://github.com/hughobrien/wlan-stats
+[submodule "external/wifi-monitor"]
+	path = external/wifi-monitor
+	url = https://github.com/tadashi/wifi-monitor
+[submodule "external/wifitap"]
+	path = external/wifitap
+	url = https://github.com/viscousliquid/wifitap
