@@ -106,3 +106,6 @@
 [submodule "external/wifitap"]
 	path = external/wifitap
 	url = https://github.com/viscousliquid/wifitap
+[submodule "external/wireless-ids"]
+	path = external/wireless-ids
+	url = https://github.com/SYWorks/wireless-ids
