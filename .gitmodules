@@ -127,3 +127,33 @@
 [submodule "external/lorcon"]
 	path = external/lorcon
 	url = https://github.com/0x90/lorcon/
+[submodule "external/802.11-data"]
+	path = external/802.11-data
+	url = https://github.com/ewa/802.11-data/
+[submodule "external/wifi-locator"]
+	path = external/wifi-locator
+	url = https://github.com/clockfort/wifi-locator
+[submodule "external/WifiScanAndMap"]
+	path = external/WifiScanAndMap
+	url = https://github.com/cyberpython/WifiScanAndMap
+[submodule "external/wifimonitor"]
+	path = external/wifimonitor
+	url = https://github.com/DanMcInerney/wifi-monitor
+[submodule "external/wifi-heatmap"]
+	path = external/wifi-heatmap
+	url = https://github.com/beaugunderson/wifi-heatmap
+[submodule "external/bunny"]
+	path = external/bunny
+	url = https://github.com/mothran/bunny
+[submodule "external/airpwn"]
+	path = external/airpwn
+	url = https://github.com/M0Rf30/airpwn
+[submodule "external/LANs.py"]
+	path = external/LANs.py
+	url = https://github.com/DanMcInerney/LANs.py
+[submodule "external/haiku-wifi"]
+	path = external/haiku-wifi
+	url = https://github.com/jedahan/haiku-wifi
+[submodule "external/wificurse"]
+	path = external/wificurse
+	url = https://github.com/oblique/wificurse
