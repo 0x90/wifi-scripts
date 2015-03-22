@@ -1,6 +1,8 @@
 wifi-scripts
 ============
 
+EXTERNAL TOOLS MOVED TO https://github.com/0x90/wifi-arsenal
+
 Python scripts and tools for WiFi.
 
 Don't forget to init submodules
