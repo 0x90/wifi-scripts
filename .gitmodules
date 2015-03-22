@@ -112,3 +112,6 @@
 [submodule "external/py80211"]
 	path = external/py80211
 	url = https://github.com/0x90/py80211/
+[submodule "external/bully"]
+	path = external/bully
+	url = https://github.com/Lrs121/bully
