@@ -109,3 +109,6 @@
 [submodule "external/horst"]
 	path = external/horst
 	url = https://github.com/br101/horst
+[submodule "external/py80211"]
+	path = external/py80211
+	url = https://github.com/0x90/py80211/
