@@ -28,9 +28,6 @@
 [submodule "external/airview"]
 	path = external/airview
 	url = https://github.com/Crypt0s/airview
-[submodule "external/py80211"]
-	path = external/py80211
-	url = https://code.google.com/p/py80211/
 [submodule "external/wifuzzit"]
 	path = external/wifuzzit
 	url = https://github.com/0xd012/wifuzzit
