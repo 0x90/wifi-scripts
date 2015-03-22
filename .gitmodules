@@ -109,6 +109,3 @@
 [submodule "external/wireless-ids"]
 	path = external/wireless-ids
 	url = https://github.com/SYWorks/wireless-ids
-[submodule "external/horst"]
-	path = external/horst
-	url = git://br1.einfach.org/horst
