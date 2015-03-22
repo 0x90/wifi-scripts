@@ -115,3 +115,12 @@
 [submodule "external/bully"]
 	path = external/bully
 	url = https://github.com/Lrs121/bully
+[submodule "external/WAPMap"]
+	path = external/WAPMap
+	url = https://github.com/hack1thu7ch/WAPMap
+[submodule "external/FFT_eval"]
+	path = external/FFT_eval
+	url = https://github.com/simonwunderlich/FFT_eval
+[submodule "external/ath9k-spectral-scan"]
+	path = external/ath9k-spectral-scan
+	url = https://github.com/kazikcz/ath9k-spectral-scan
