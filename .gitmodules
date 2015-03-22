@@ -124,3 +124,6 @@
 [submodule "external/ath9k-spectral-scan"]
 	path = external/ath9k-spectral-scan
 	url = https://github.com/kazikcz/ath9k-spectral-scan
+[submodule "external/lorcon"]
+	path = external/lorcon
+	url = https://github.com/0x90/lorcon/
