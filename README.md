@@ -5,16 +5,6 @@ EXTERNAL TOOLS MOVED TO https://github.com/0x90/wifi-arsenal
 
 Python scripts and tools for WiFi.
 
-Don't forget to init submodules
-```
-git submodule init
-git submodule foreach git pull
-```
-
-to update submodules use:
-```
-git submodule update --recursive
-```
 
 ## REPOS
 https://github.com/tom5760/pylorcon2
@@ -60,6 +50,7 @@ https://github.com/PaulMcMillan/kismetclient
 
 ## Links
 
+http://blog.opensecurityresearch.com/2012/05/installing-lorcon2-on-backtrack-5-r2.html
 http://corelabs.coresecurity.com/index.php?module=Wiki&action=view&type=tool&name=WPA_Migration_Mode_patches_for_aircrack-ng_and_Kismet
 http://wifimafia.blogspot.ru/2011/03/wap-fingerprinting-wi-fi-alliance-way.html
 http://wifimafia.blogspot.ru/2011/03/injecting-80211-frames-with-pylorcon2.html
