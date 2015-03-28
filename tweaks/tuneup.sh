@@ -13,8 +13,10 @@
 #iw dev wlan0 set channel 6
 
 iface="mon0"
-bssid="c0:4a:00:6e:d8:fa"
-channel=11
+channel=$1
+bssid=$2
+#bssid="c0:4a:00:6e:d8:fa"
+#channel=11
 
 #http://www.embeddedcircle.com/wi-fi-filter-for-wireshark/
 
