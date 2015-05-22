@@ -50,6 +50,7 @@ https://github.com/PaulMcMillan/kismetclient
 
 ## Links
 
+http://pythonwifi.tuxfamily.org/
 http://blog.opensecurityresearch.com/2012/05/installing-lorcon2-on-backtrack-5-r2.html
 http://corelabs.coresecurity.com/index.php?module=Wiki&action=view&type=tool&name=WPA_Migration_Mode_patches_for_aircrack-ng_and_Kismet
 http://wifimafia.blogspot.ru/2011/03/wap-fingerprinting-wi-fi-alliance-way.html
