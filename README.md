@@ -9,6 +9,7 @@ Python scripts and tools for WiFi.
 ```python
 from scapy.all import *
 
-sniff(iface=iface, prn=lambda x: 
+sniff(iface='eth0', 
+    prn=lambda x: 
     x.sprintf("{Dot11Beacon:%Dot11.addr3%\t%Dot11Beacon.info%\tDot11Beacon.cap%}"))
 ```
