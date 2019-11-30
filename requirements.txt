@@ -23,7 +23,7 @@ pycparser==2.10
 pyroute2==0.3.6
 python-wifi==0.6.0
 -e git+https://github.com/pingflood/pythonwifi.git@2d20c4f0d057833d5b851280ed2133b0b82bf69c#egg=python_wifi-master
-scapy==2.3.1
+scapy==2.4.1
 terminaltables==1.1.1
 watchdog==0.8.3
 wireless==0.3.0
