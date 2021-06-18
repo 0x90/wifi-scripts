@@ -9,7 +9,7 @@ colorclass==1.2.0
 dnet==1.12
 docopt==0.6.2
 dpkt==1.8.6
-impacket==0.9.12
+impacket==0.9.23
 iwlib==1.5
 libnl==0.2.0
 netaddr==0.7.14
